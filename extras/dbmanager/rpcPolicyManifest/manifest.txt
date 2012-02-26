@@ -1,0 +1,3 @@
+# Module dbmanager
+# RPC service class, partial path of RPC policy file
+com.example.dbmanager.client.DBManagerService, B701289B786A0CC0FF793A54CB0D0923.gwt.rpc

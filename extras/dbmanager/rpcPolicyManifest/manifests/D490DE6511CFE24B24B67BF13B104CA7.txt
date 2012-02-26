@@ -1,0 +1,2 @@
+serviceClass: com.example.dbmanager.client.DBManagerService
+path: B701289B786A0CC0FF793A54CB0D0923.gwt.rpc
